@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ChallengeDay5-Project6-SharedPreferences</string>
-    <string name="shared_preference">Shared Preference</string>
-    <string name="enter_your_name">Enter Your Name</string>
+    <string name="shared_preference">Shared Preferences</string>
+    <string name="enter_your_username">Enter Your User Name</string>
     <string name="save">Save</string>
+    <string name="previous_user_name">Previous User Name :</string>
 </resources>
